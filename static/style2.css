@@ -1,0 +1,18 @@
+.dump {
+    background-color: greenyellow;
+}
+.first {
+    font-weight: bold;
+    font-size: 26px;
+    color: red;
+}
+.second {
+    font-weight: normal;
+    font-size: 18px;
+    color: orange;
+}
+.third {
+    font-weight: normal;
+    font-size: 18px;
+    color: orange;
+}
